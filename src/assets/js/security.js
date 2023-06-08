@@ -12,7 +12,6 @@ window.addEventListener('load', () => {
 });
 
 const buttonSecurity = document.getElementById('buttonSecurity');
-
 buttonSecurity.addEventListener('click', () => {
   const codeSecurity = document.getElementById('codeSecurity');
   const errorSecurity = document.getElementById('errorSecurity');
