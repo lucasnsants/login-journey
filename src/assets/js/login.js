@@ -22,5 +22,5 @@ buttonLogin.addEventListener('click', () => {
 
   setTimeout(() => {
     window.location.href = '/login-journey/security.html';
-  }, 10000);
+  }, 5000);
 });
